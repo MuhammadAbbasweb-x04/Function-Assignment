@@ -133,3 +133,116 @@
 
 // Q13
 // Answer
+// function age(age){
+// if(age >= 13 && age <= 19 ){
+// return "Teenager";
+// }
+// else {
+// return "Not teenager";
+// }
+// }
+// console.log(age(34))
+
+// Q14
+// Answer
+
+// function greetuser(name){
+  
+//    return "hello" + "" + name ;
+
+// }
+// console.log(greetuser("muhmmad abbas!"));
+
+// Q15
+// Answer
+
+// function tovote(tovote){
+// if(tovote >= 18 && tovote <= 30){
+// return "Eligible";
+// }
+// else {
+//     return "Not eligible"
+// }
+// } 
+
+// console.log(tovote(18));
+
+// Q16
+// Answer
+// function findAbsoluteValue(num) {
+//   if (num < 0) {
+//     return -num;
+//   } else {
+//     return num;
+//   }
+// }
+// console.log(findAbsoluteValue(-7)); 
+// console.log(findAbsoluteValue(3));
+
+// Q17
+// Answer
+
+// function checktemperature(temperature){
+
+// if(temperature > 30){
+// return "Hot";
+// } else if ( temperature < 10){
+// return "cold";
+// }
+//  else {
+//     return "Normel";
+//  }
+// }
+
+// console.log(checktemperature(0));
+
+
+// Q18
+// Answer
+
+// function sameNum(num1,num2,num3){
+//     if(num1 === num2 && num2 ===num3){
+//         return "Equilateral";
+//     }
+//     else if(num1 === num2 && num1 === num2){
+//    return "Isosceles";
+//     }
+//     else{
+//        return "Scalene";
+//     }
+// }
+
+// console.log(sameNum(12,12));
+
+
+
+
+
+// Q19
+// Answer
+// let dvied = 1000;
+
+
+// function discount(price){
+// if (dvied / 2){
+// return "discounted price";
+// }
+// else {
+//     return "price discount";
+// }
+// }
+
+// console.log(discount(1));
+
+// Q20
+// Answer
+    // function password(pass){
+    // if ( pass.length >= 8){
+    // return "Valid Password";
+    // }
+    // else {
+    //     return "to short";
+    // }
+    // }
+
+    // console.log(password("1234567"));
